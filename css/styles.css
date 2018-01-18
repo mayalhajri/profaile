@@ -1,0 +1,84 @@
+
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #5e5e5e;
+    font-weight: 300;
+}
+h1 {
+   font-family: 'lato' ,sans-serif;
+   font-size: 80%;
+    margin-top :40px;
+}
+h4{
+   font-family: 'lato';
+    font-weight: bold;
+}
+h4.big {
+	font-family: 'Open Sans', sans-serif;
+	color: #5e5e5e;
+	font-weight: 300;
+	line-height: 1.5;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: #5e5e5e;
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 120%;
+}
+.list-item {
+	font-family: 'Open Sans', sans-serif;
+	color: #5e5e5e;
+	font-weight: 300;
+	line-height: 1.5;
+	font-size: 120%;
+}
+.projects-title {
+    margin-top: 50px;
+}
+.title {
+    color: silver;
+    margin-bottom: 50px;
+    text-align: center;
+}
+hr {
+    display: block;
+    border-top: 4px solid #aaaaaa;
+    border-bottom: 1px solid #ffffff;
+}
+.text-muted {
+    color: #BCBBBB;
+}
+.text-thin {
+    font-weight: 100;
+}
+.title-super {
+    font-size: 60px;
+}
+.title-logo {
+	max-width: 100px;
+	max-height: 100px;
+    margin-top: 30px;
+}
+.section {
+    color: dimgray;
+}
+.img-project {
+    max-height: 300px;
+}
+.mouse-hover {
+	cursor: pointer;
+}
+.pull-right {
+	float: right;
+}
+footer {
+	margin-top: 50px;
+	font-size: 1.2em;
+	font-weight: 400;
+	text-align: center;
+}
+iframe {
+    border: 0;
+}
